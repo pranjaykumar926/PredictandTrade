@@ -1,9 +1,6 @@
 # 📈 Predict & Trade 🚀💰
 
-![Predict & Trade Logo](assets/logo.png)  
 Welcome to **Predict & Trade** – an intelligent stock market prediction and trading system powered by machine learning and data-driven insights! 💹🔮
-
-![Stock Market Prediction](assets/stock_prediction.png)
 
 ## 🌟 Features
 
@@ -12,8 +9,6 @@ Welcome to **Predict & Trade** – an intelligent stock market prediction and tr
 ✅ **Interactive Data Visualizations** for clear insights 🎨📉  
 ✅ **Easy-to-Use Interface** – just plug in your stock ticker and go! ⚡🖥️  
 ✅ **Open-Source & Customizable** – tweak and enhance as you like! 🛠️📝  
-
-![Feature Overview](assets/feature_overview.png)
 
 ## 🏗️ Installation
 
@@ -40,8 +35,6 @@ python PredictandTrade.py
 
 3️⃣ Watch the magic happen as the model predicts future trends! 🔮📈
 
-![Live Predictions](assets/live_predictions.png)
-
 ## 📂 File Structure
 
 📂 `PredictandTrade.py` – Main script for prediction 🖥️  
@@ -50,8 +43,6 @@ python PredictandTrade.py
 📂 `assets/` – Folder for logos and images 🖼️  
 📂 `README.md` – This awesome guide 😎  
 
-![Folder Structure](assets/folder_structure.png)
-
 ## 🛠️ Technologies Used
 
 🚀 Python 🐍  
@@ -59,15 +50,11 @@ python PredictandTrade.py
 📉 Matplotlib & Seaborn 🎨  
 🔮 Scikit-Learn 🤖  
 
-![Tech Stack](assets/tech_stack.png)
-
 ## 🎯 Future Enhancements
 
 🔥 Add Deep Learning models for better accuracy  
 🔥 Implement real-time stock market API integration  
 🔥 Create a sleek web dashboard for predictions  
-
-![Future Roadmap](assets/future_roadmap.png)
 
 ## 🤝 Contributing
 
