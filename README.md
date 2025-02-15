@@ -66,8 +66,8 @@ This project is licensed under the **MIT License** – free to use and modify! �
 ## 📢 Connect with Me
 
 💼 **GitHub:** [pranjaykumar926](https://github.com/pranjaykumar926)  
-📧 **Email:** your-email@example.com  
-🌍 **LinkedIn:** [Your LinkedIn Profile](#)
+📧 **Email:** pranjaykumar926@gmail.com  
+🌍 **LinkedIn:** [Pranjay Kumar](https://www.linkedin.com/in/pranjay-kumar-991033314/)
 
 ---
 
